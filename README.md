@@ -7,7 +7,10 @@ Hello, my name is Sakata, i have been a developer for a little while now (as of 
 
 # Chapter 2, Where do i start?
 So to start your Reverb journey you will need a few prerequisites, here i will list them out:
-
-Make/Cmake
-Any text editor (i.e Visual Studio Code, Nano, Vim, Kate, etc.)
-The Delay Compiler (Reverb's Compiler)
+-------------------------------------------------------------------
+|Make/Cmake                                                        |
+|                                                                  |
+|Any text editor (i.e Visual Studio Code, Nano, Vim, Kate, etc.)   |
+|                                                                  |
+|The Delay Compiler (Reverb's Compiler)                            |
+-------------------------------------------------------------------
