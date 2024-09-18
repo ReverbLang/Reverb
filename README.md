@@ -6,6 +6,8 @@ Welcome to the introduction markdown document for Reverb. In this document, i wi
 
 Hello, my name is Sakata, i have been a developer for a little while now (as of September 16th 2024 it has been a few months since i started "developing"). Reverb is my newest "big" project where i aim to make a programming language thats in a kind of sweet spot between "beginner friendly" and "not beginner friendly". This language will be more or so similar to C/C++ so buckle up!
 
+Reverb is a multi-purpose language, you can use it for your next website, or your new linux window manager, the possibilities are endless! I want to see Reverb used in all sorts of projects, please try it.
+
 # Chapter 2, Where do i start?
 
 So to start your Reverb journey you will need a few prerequisites, here i will list them out:
