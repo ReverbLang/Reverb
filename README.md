@@ -16,5 +16,5 @@ Make/Cmake
 
 Any text editor (i.e Visual Studio Code, Nano, Vim, Kate, etc.)
 
-The Delay Compiler (Reverb's Compiler)
+Delay (Reverb's Compiler/Interpreter)
 
